@@ -79,7 +79,7 @@ The trained model is already included so it loads instantly.
 
 ## Live Demo
 
-[Click here to try it](https://heart-attack-prediction-bkdt5ntlbxswmuwezny3nx.streamlit.app)
+[Click here to try it](https://fraudcast--anomaly-dectection-in-upi-credit-card-vy8nkaqlywdgt.streamlit.app)
 
 
 ## Disclaimer
