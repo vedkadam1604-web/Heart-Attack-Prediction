@@ -79,7 +79,8 @@ The trained model is already included so it loads instantly.
 
 ## Live Demo
 
-[Click here to try it](https://YOUR_APP_URL.streamlit.app) ← update after deploying
+[Click here to try it](https://heart-attack-prediction-bkdt5ntlbxswmuwezny3nx.streamlit.app)
+
 
 ## Disclaimer
 
