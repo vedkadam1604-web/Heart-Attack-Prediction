@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.env
+.venv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+*.swp
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Keep model files (needed for demo)
+# models/*.pkl  <-- intentionally NOT ignored
